@@ -1,0 +1,81 @@
+VERSION = 1,
+
+option DRAZL.BoolAddToMale
+{
+	type = boolean, default = true,
+	page = DRAZL_Main, translation = BoolAddToMale,
+}
+
+option DRAZL.BoolAddToFemale
+{
+	type = boolean, default = true,
+	page = DRAZL_Main, translation = BoolAddToFemale,
+}
+
+option DRAZL.EnumLootChanceFlatAdjustment
+{
+	type = enum, numValues = 11, default = 6,
+	page = DRAZL_Main, translation = EnumLootChanceFlatAdjustment,
+	valueTranslation = DRAZL_EnumLootChanceFlatAdjustment,
+}
+
+option DRAZL.EnumLootChanceMultiplier
+{
+	type = enum, numValues = 11, default = 6,
+	page = DRAZL_Main, translation = EnumLootChanceMultiplier,
+	valueTranslation = DRAZL_EnumLootChanceMultiplier,
+}
+
+option DRAZL.BoolAddModded
+{
+	type = boolean, default = false,
+	page = DRAZL_Main, translation = BoolAddModded,
+}
+
+option DRAZL.BoolAddMisc
+{
+	type = boolean, default = true,
+	page = DRAZL_Main, translation = BoolAddMisc,
+}
+
+option DRAZL.BoolAddFood
+{
+	type = boolean, default = true,
+	page = DRAZL_Main, translation = BoolAddFood,
+}
+
+option DRAZL.BoolAddDrinks
+{
+	type = boolean, default = true,
+	page = DRAZL_Main, translation = BoolAddDrinks,
+}
+
+option DRAZL.BoolAddMedical
+{
+	type = boolean, default = true,
+	page = DRAZL_Main, translation = BoolAddMedical,
+}
+
+option DRAZL.BoolAddMaterials
+{
+	type = boolean, default = true,
+	page = DRAZL_Main, translation = BoolAddMaterials,
+}
+
+option DRAZL.BoolAddTools
+{
+	type = boolean, default = true,
+	page = DRAZL_Main, translation = BoolAddTools,
+}
+
+option DRAZL.BoolAddMeleeWeapons
+{
+	type = boolean, default = true,
+	page = DRAZL_Main, translation = BoolAddMeleeWeapons,
+}
+
+option DRAZL.BoolAddRangedWeapons
+{
+	type = boolean, default = true,
+	page = DRAZL_Main, translation = BoolAddRangedWeapons,
+}

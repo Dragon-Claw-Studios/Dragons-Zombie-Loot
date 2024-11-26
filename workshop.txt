@@ -1,0 +1,75 @@
+version=1
+id=3007689043
+title=Dragons Zombie Loot
+description=[img]https://i.imgur.com/qGBxoXc.gif[/img]
+description=
+description=[h1]Description[/h1]
+description=Adds useful loot to zombies, with simple configuration settings that allows for customization of the way these items are added. Mod was inspired by [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2686972114][b]Zombie Loot[/b][/url] by [url=https://steamcommunity.com/id/078947226182232282][b]Dylan[/b][/url].
+description=
+description=[h1]What is included?[/h1]
+description=The primary focus of this mod is simplicity, versatility, balance and compatibility. I wanted a zombie loot mod that has some sensible presets, but also the ability to configure some aspects, such as which item "groups" to add, and their rarity. The full list of features in this mod are:
+description=
+description=- Add items to male zombies toggle
+description=- Add items to female toggle
+description=- Loot chance flat adjustment
+description=- Loot chance multiplier adjustment
+description=- Add modded items (does nothing yet)
+description=- Add misc items
+description=- Add food items
+description=- Add drink items
+description=- Add medical items
+description=- Add material items
+description=- Add tool items
+description=- Add melee weapon items
+description=- Add ranged weapon items
+description=
+description=Check out this [url=https://steamcommunity.com/workshop/filedetails/discussion/3007689043/3807281160976322686/][b]discussion thread[/b][/url] for base values and which items are added:
+description=
+description=Flat increases are applied [b]AFTER[/b] multiplication, and all settings only apply to items added through [b]THIS[/b] mod. Normal sandbox loot rarity settings are also applied on top of the base rarity, so the rarity settings is mostly to make the added items more or less rare than what can already spawn in vanilla.
+description=
+description=[h1]Customization[/h1]
+description=You can configure singleplayer settings through [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2169435993][b]Mod Options[/b][/url]. Servers use vanilla sandbox settings.
+description=
+description=- Install [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2169435993][b]Mod Options[/b][/url].
+description=- Open Project Zomboid.
+description=- Enable "Mod Options" in the mod menu.
+description=- Go to "Options".
+description=- Go to "Mods".
+description=- Adjust settings for "Dragons Zombie Loot" to your liking.
+description=- Apply.
+description=
+description=[b]NB:[/b] If you change settings while a save is loaded, you will have to reload the save for changes to apply. No need to shut down the game though.
+description=
+description=[b]NB:[/b] If you want to change the settings for a server, you need to use the sandbox settings instead. Remember to have the mod enabled if you use the "Host" approach, as the sandbox settings wont show/get added otherwise.
+description=
+description=[h1]Default Settings[/h1]
+description=- Add to Male = true
+description=- Add to Female = true
+description=- Loot Chance Flat Adjustment = +0 (no changes)
+description=- Loot Chance Multiplier Adjustment = +0% (no changes)
+description=- Add Modded Items = false
+description=- Add Misc Items = true
+description=- Add Food Items = true
+description=- Add Drink Items = true
+description=- Add medical Items = true
+description=- Add Material Items = true
+description=- Add Tool Items = true
+description=- Add Melee Weapon Items = true
+description=- Add Ranged Weapon Items = true
+description=
+description=[h1]Compatibility[/h1]
+description=- The mod is entirely self-contained and does [b]NOT:[/b] modify loot chance of other mods.
+description=- Existing save compatible, though zombies that have already spawned in wont be affected by changes to settings
+description=- Keep in mind that if you have mods that remove/replace vanilla items, there could be some issues or unexpected behavior, but that is why the item group toggles are for.
+description=
+description=[h1]Balance[/h1]
+description=It is a bit tricky to balance a mod like this due to how Project Zomboid distributes items into inventories. The main issues is that there is a hard limit on how many items in total that can be added to an inventory. What this means, is that high commonality items take precedence, and will "overwrite" items that are more rare if the amount limit is reached. In theory, this means that the more items you add to the loot table, the less of a chance there is for there to be a "slot" open for a rare item to spawn, thus making them even more rare than what the rarity stat implies.
+description=
+description=For this reason, I have made an attempt at tweaking the rarity of these added items to be mostly on the more uncommon/rare side, compared to vanilla items. My design philosophy is that the zombie loot should be a nice bonus, but not something that should straight up replace say farming for food, or going to POIs to get weapons or ammo.
+description=
+description=I have also noticed that some other loot mods only add items to male zombies, but this mod gives you the option to add items to both male and female zombies, which automatically doubles the chances that these items can spawn in, another reason why I would rather be a bit more on the conservative side when it comes to rarity.
+description=
+description=[h1]Known Issues[/h1]
+description=None so far, but let me know if you encounter any.
+tags=Build 41
+visibility=public

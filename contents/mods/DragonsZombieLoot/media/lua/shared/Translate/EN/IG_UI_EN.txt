@@ -1,0 +1,19 @@
+IGUI_EN = {
+
+	IGUI_Sandbox_HIDE FROM CLIENT = "DOES NOT WORK",
+	IGUI_tooltip_DragonsZombieLoot_option0 = "Add Items to Male Zombies<br> - Adds items to male zombies.",
+	IGUI_tooltip_DragonsZombieLoot_option1 = "Add Items to Female Zombies<br> - Adds items to female zombies.",
+	IGUI_tooltip_DragonsZombieLoot_option2 = "Loot Chance Flat Adjustment<br> - Adjusts the added loot items chance by a flat amount<br>(chance value cannot go below 0.0001, vanilla Pencil value is 1.0 for reference).",
+    IGUI_tooltip_DragonsZombieLoot_option3 = "Loot Chance Multipler Adjustment<br> - Adjusts the added loot items chance by a multiplied amount<br>(chance value cannot go below 0.0001, vanilla Pencil value is 1.0 for reference).",
+    IGUI_tooltip_DragonsZombieLoot_option4 = "Add Modded Items<br> - If certain mods are present, modded items that fit with the categories enabled will be added.",
+	IGUI_tooltip_DragonsZombieLoot_option5 = "Add Misc Items<br> - Adds misc items such as petrol cans and newspaper.",	
+	IGUI_tooltip_DragonsZombieLoot_option6 = "Add Food Items<br> - Adds food items such as chips bags and canned food.",
+	IGUI_tooltip_DragonsZombieLoot_option7 = "Add Drink Items<br> - Adds drinkable items such as bottled water and whiskey.",
+	IGUI_tooltip_DragonsZombieLoot_option8 = "Add Medical Items<br> - Adds medicinal items such as disinfectant and alcohol wipes.",
+	IGUI_tooltip_DragonsZombieLoot_option9 = "Add Material Items<br> - Adds material items such as nails and glue.",	
+	IGUI_tooltip_DragonsZombieLoot_option10 = "Add Tool Items<br> - Adds tool-like items such as hammers and kitchen knives.",
+	IGUI_tooltip_DragonsZombieLoot_option11 = "Add Melee Weapon Items<br> - Adds melee weapon-like items such as axes and crowbars.",
+	IGUI_tooltip_DragonsZombieLoot_option12 = "Add Ranged Weapon Items<br> - Adds ranged weapon-like items such as handguns and shotguns.",
+
+
+}

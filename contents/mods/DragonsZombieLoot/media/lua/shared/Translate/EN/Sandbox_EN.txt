@@ -1,0 +1,68 @@
+Sandbox_EN = {
+
+    Sandbox_DRAZL_Main = "Dragons Zombie Loot Settings",
+
+    Sandbox_BoolAddToMale = "Add Items to Male Zombies",
+    Sandbox_BoolAddToMale_tooltip = "Adds items to male zombies",
+	
+    Sandbox_BoolAddToFemale = "Add Items to Female Zombies",
+    Sandbox_BoolAddToFemale_tooltip = "Adds items to female zombies",	
+
+    Sandbox_EnumLootChanceFlatAdjustment = "Loot Chance Flat Adjustment",
+    Sandbox_DRAZL_EnumLootChanceFlatAdjustment_option1 = "+2.0 ",
+    Sandbox_DRAZL_EnumLootChanceFlatAdjustment_option2 = "+1.6",
+    Sandbox_DRAZL_EnumLootChanceFlatAdjustment_option3 = "+1.2",
+    Sandbox_DRAZL_EnumLootChanceFlatAdjustment_option4 = "+0.8",
+    Sandbox_DRAZL_EnumLootChanceFlatAdjustment_option5 = "+0.4",
+    Sandbox_DRAZL_EnumLootChanceFlatAdjustment_option6 = "+0 (no changes)",
+    Sandbox_DRAZL_EnumLootChanceFlatAdjustment_option7 = "-0.4",
+    Sandbox_DRAZL_EnumLootChanceFlatAdjustment_option8 = "-0.8",
+    Sandbox_DRAZL_EnumLootChanceFlatAdjustment_option9 = "-1.2",
+    Sandbox_DRAZL_EnumLootChanceFlatAdjustment_option10 = "-1.6",
+    Sandbox_DRAZL_EnumLootChanceFlatAdjustment_option11 = "-2.0",
+    Sandbox_EnumLootChanceFlatAdjustment_tooltip = "Adjusts the added loot items chance by a flat amount (chance value cannot go below 0.0001, vanilla Pencil value is 1.0 for reference)",
+
+    Sandbox_EnumLootChanceMultiplier = "Loot Chance Multipler Adjustment",
+    Sandbox_DRAZL_EnumLootChanceMultiplier_option1 = "+200%",
+    Sandbox_DRAZL_EnumLootChanceMultiplier_option2 = "+160%",
+    Sandbox_DRAZL_EnumLootChanceMultiplier_option3 = "+120%",
+    Sandbox_DRAZL_EnumLootChanceMultiplier_option4 = "+80%",
+    Sandbox_DRAZL_EnumLootChanceMultiplier_option5 = "+40%",
+    Sandbox_DRAZL_EnumLootChanceMultiplier_option6 = "+0% (no changes)",
+    Sandbox_DRAZL_EnumLootChanceMultiplier_option7 = "-10%",
+    Sandbox_DRAZL_EnumLootChanceMultiplier_option8 = "-20%",
+    Sandbox_DRAZL_EnumLootChanceMultiplier_option9 = "-30%",
+    Sandbox_DRAZL_EnumLootChanceMultiplier_option10 = "-40%",
+    Sandbox_DRAZL_EnumLootChanceMultiplier_option11 = "-50%",
+    Sandbox_EnumLootChanceMultiplier_tooltip = "Adjusts the added loot items chance by a multiplied amount (chance value cannot go below 0.0001, vanilla Pencil value is 1.0 for reference)",
+
+    Sandbox_BoolAddModded = "Add Modded Items",
+    Sandbox_BoolAddModded_tooltip = "If certain mods are present, modded items that fit with the categories enabled will be added.",
+
+	Sandbox_BoolAddMisc = "Add Misc Items",
+    Sandbox_BoolAddMisc_tooltip = "Adds misc items such as petrol cans and newspaper.",
+	
+	Sandbox_BoolAddFood = "Add Food Items",
+    Sandbox_BoolAddFood_tooltip = "Adds food items such as chips bags and canned food.",
+	
+	Sandbox_BoolAddDrinks = "Add Drink Items",
+    Sandbox_BoolAddDrinks_tooltip = "Adds drinkable items such as bottled water and whiskey.",
+	
+	Sandbox_BoolAddMedical = "Add Medical Items",
+    Sandbox_BoolAddMedical_tooltip = "Adds medicinal items such as disinfectant and alcohol wipes.",
+
+	Sandbox_BoolAddMaterials = "Add Material Items",
+    Sandbox_BoolAddMaterials_tooltip = "Adds material items such as nails and glue.",
+	
+	Sandbox_BoolAddTools = "Add Tool Items",
+    Sandbox_BoolAddTools_tooltip = "Adds tool-like items such as hammers and kitchen knives.",
+	
+	Sandbox_BoolAddMeleeWeapons = "Add Melee Weapon Items",
+    Sandbox_BoolAddMeleeWeapons_tooltip = "Adds melee weapon-like items such as axes and crowbars.",
+	
+	Sandbox_BoolAddRangedWeapons = "Add Ranged Weapon Items",
+    Sandbox_BoolAddRangedWeapons_tooltip = "Adds ranged weapon-like items such as handguns and shotguns.",
+	
+
+
+}
